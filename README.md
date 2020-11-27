@@ -1,1 +1,1 @@
-# DSA_tricky_Question
+# DSA_tricky_Questions
